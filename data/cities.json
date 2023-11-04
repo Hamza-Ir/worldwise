@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Pedrola",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-27T21:29:07.259Z",
+      "notes": "Pedrola adad",
+      "position": {
+        "lat": "41.77131167976407",
+        "lng": "-1.34033203125"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Macedo de Cavaleiros",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-10-27T21:36:32.347Z",
+      "notes": "",
+      "position": {
+        "lat": "41.541477666790286",
+        "lng": "-6.8115234375"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Ouarzazat",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-10-28T23:19:44.465Z",
+      "notes": "",
+      "position": {
+        "lat": "31.071755902820133",
+        "lng": "-6.877441406250001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Muzaffargarh",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-11-01T09:03:05.044Z",
+      "notes": "I liked it",
+      "position": {
+        "lat": "30.24957724046765",
+        "lng": "71.34521484375001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Fuenlabrada de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-04T20:36:37.141Z",
+      "notes": "asd",
+      "position": {
+        "lat": "39.16414104768742",
+        "lng": "-4.94384765625"
+      },
+      "id": 98443207
+    }
+  ]
+}
